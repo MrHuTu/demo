@@ -1,3 +1,7 @@
 #README
 
-hellow git 
+hellow git
+
+frist learn git
+
+
